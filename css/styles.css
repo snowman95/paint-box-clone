@@ -2,6 +2,7 @@
 @import "header.css";
 body {
   font-size: 11px;
+  letter-spacing: 2px;
   color: var(--font-color);
   box-sizing: border-box;
 }
