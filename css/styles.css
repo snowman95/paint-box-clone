@@ -1,5 +1,6 @@
 @import "main.css";
 @import "header.css";
+@import "footer.css";
 body {
   font-size: 11px;
   letter-spacing: 2px;
@@ -8,9 +9,5 @@ body {
 }
 :root {
   --font-color: #717070;
-}
-
-main {
-}
-footer {
+  --font-deep-color: #414141;
 }
