@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Caladea&family=Montserrat:wght@100;500&display=swap");
 .header {
+  font-family: "Montserrat", sans-serif;
+  color: black;
   position: fixed;
   top: 0px;
   width: 100%;
@@ -10,10 +13,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-}
-.hidden_bar {
-  margin-top: 150px;
-  height: 50px;
 }
 .header__column {
   width: 33%;

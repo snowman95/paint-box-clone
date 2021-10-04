@@ -1,1 +1,8 @@
 @import "./display.css";
+
+.header-div_bar {
+  margin-top: 150px;
+}
+.div-bar {
+  height: 50px;
+}
